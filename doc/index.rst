@@ -208,3 +208,5 @@ store cached output using the :option:`-c` option,
 
    Specify a directory to cache intermediate documentation representations. This
    directory will be created if it does not already exist.
+   
+For a list of all possible options see `apidoc.main <https://github.com/bronto/javasphinx/blob/master/javasphinx/apidoc.py#L258>`_.
